@@ -1,7 +1,7 @@
 # Breast-Cancer-Prediction
 
 ## Breast Cancer Prediction - Machine Learning Project
-___
+
 Summary
 This project focuses on predicting the presence of breast cancer based on a given dataset. The goal is to build a machine learning model that accurately classifies whether a tumor is malignant or benign using a set of relevant features. The process involves data preprocessing, feature engineering, model training, and evaluation.
 
