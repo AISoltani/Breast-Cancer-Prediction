@@ -5,6 +5,7 @@
 Summary
 This project focuses on predicting the presence of breast cancer based on a given dataset. The goal is to build a machine learning model that accurately classifies whether a tumor is malignant or benign using a set of relevant features. The process involves data preprocessing, feature engineering, model training, and evaluation.
 
+
 Steps Involved
 1. Column Removal
 To ensure that only the most relevant features are used for the prediction, unnecessary columns were removed from the dataset. This step helps to simplify the model, improve performance, and avoid overfitting.
