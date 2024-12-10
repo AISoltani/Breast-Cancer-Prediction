@@ -25,7 +25,7 @@ A Logistic Regression model was used for this classification task. Logistic Regr
 5. Model Performance
 The trained Logistic Regression model achieved an accuracy of 97.4%, which indicates excellent performance in predicting the presence of breast cancer. This high accuracy suggests that the model is well-suited for the task and is able to make reliable predictions based on the input features.
 <div style="text-align: center;">
-  <img src="https://raw.githubusercontent.com/AISoltani/Breast-Cancer-Prediction/refs/heads/main/BreastCancerPR.png" alt="Breast Cancer Prediction Model" width="700"/>
+  <img src="https://raw.githubusercontent.com/AISoltani/Breast-Cancer-Prediction/refs/heads/main/BreastCancerPR.png" alt="Breast Cancer Prediction Model" width="600"/>
 </div>
 Conclusion
 The project successfully demonstrates the process of predicting breast cancer using a machine learning model. With a high accuracy rate of 97.4%, the Logistic Regression model shows promising results in classifying tumors as malignant or benign. Further improvements can be made by experimenting with other machine learning algorithms, fine-tuning hyperparameters, and performing cross-validation to ensure robustness.
